@@ -3,3 +3,6 @@ class Solution {
      return columnTitle.chars().reduce(0,(subtotal,c)-> subtotal*26+c-'@');   
     }
 } 
+
+
+
