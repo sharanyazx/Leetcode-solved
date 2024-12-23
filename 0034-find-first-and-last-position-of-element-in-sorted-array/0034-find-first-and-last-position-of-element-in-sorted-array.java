@@ -12,12 +12,11 @@ class Solution {
         while (left <= right) {
             int mid = left + (right - left) / 2;
             if (nums[mid] == target) {
-                position = mid; // Update position
+                position = mid; 
                 if (findFirst) {
-                    right = mid - 1; // Search on the left for first position
+                    right = mid - 1; 
                 } else {
-                    left = mid + 1; // Search on the right for last position
-                }
+                    left = mid + 1;              }
             } else if (nums[mid] < target) {
                 left = mid + 1;
             } else {
