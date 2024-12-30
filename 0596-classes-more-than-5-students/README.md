@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/classes-more-than-5-students">596. Classes More Than 5 Students</a></h2><h3>Easy</h3><hr><p>Table: <code>Courses</code></p>
+<h2><a href="https://leetcode.com/problems/classes-more-than-5-students/?envType=problem-list-v2&envId=database">596. Classes More Than 5 Students</a></h2><h3>Easy</h3><hr><p>Table: <code>Courses</code></p>
 
 <pre>
 +-------------+---------+
