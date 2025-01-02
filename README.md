@@ -10,4 +10,12 @@
 | ------- |
 | [0184-department-highest-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sharanyazx/Leetcode-solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Array
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
