@@ -15,6 +15,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
+| [2048-build-array-from-permutation](https://github.com/sharanyazx/Leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/2058-concatenation-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sharanyazx/Leetcode-solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
@@ -41,6 +42,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/sharanyazx/Leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
