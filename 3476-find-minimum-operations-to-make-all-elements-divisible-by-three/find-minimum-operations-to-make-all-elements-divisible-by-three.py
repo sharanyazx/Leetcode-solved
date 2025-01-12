@@ -3,6 +3,6 @@ class Solution:
         oper=0
         for i in nums:
             if i%3!=0:
-                oper+=1
+                oper=oper+1
                 i=i+1
         return oper
