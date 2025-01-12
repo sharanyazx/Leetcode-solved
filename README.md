@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
