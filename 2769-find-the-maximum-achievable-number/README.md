@@ -45,3 +45,5 @@
 <ul>
 	<li><code>1 &lt;= num, t&nbsp;&lt;= 50</code></li>
 </ul>
+
+# Understanding Solution  [Sharanya's Leetcode](https://leetcode.com/u/Sharanya01/)https://leetcode.com/problems/find-the-maximum-achievable-number/solutions/6267340/easy-understanding-of-problem-step-by-step-explanation
