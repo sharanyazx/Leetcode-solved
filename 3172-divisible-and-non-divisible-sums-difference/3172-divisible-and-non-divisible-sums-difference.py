@@ -4,9 +4,9 @@ class Solution:
         b=0
         for i in range(1,n+1):
             if(i%m!=0):
-                b=b+i;
+                b=b+i
             else:
-                a+=i;
+                a+=i
         return b-a    
 
         
