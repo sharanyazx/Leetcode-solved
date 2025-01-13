@@ -15,6 +15,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sharanyazx/Leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sharanyazx/Leetcode-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
+| [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/sharanyazx/Leetcode-solved/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sharanyazx/Leetcode-solved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
