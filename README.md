@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
@@ -23,10 +24,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
