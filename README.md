@@ -10,6 +10,7 @@
 | ------- |
 | [0184-department-highest-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sharanyazx/Leetcode-solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [2087-confirmation-rate](https://github.com/sharanyazx/Leetcode-solved/tree/master/2087-confirmation-rate) |
 ## Array
 |  |
 | ------- |
