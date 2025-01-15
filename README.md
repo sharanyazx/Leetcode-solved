@@ -48,6 +48,7 @@
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/sharanyazx/Leetcode-solved/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/sharanyazx/Leetcode-solved/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/sharanyazx/Leetcode-solved/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sharanyazx/Leetcode-solved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/sharanyazx/Leetcode-solved/tree/master/2491-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
