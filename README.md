@@ -18,6 +18,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/sharanyazx/Leetcode-solved/tree/master/1625-group-sold-products-by-the-date) |
 | [1837-daily-leads-and-partners](https://github.com/sharanyazx/Leetcode-solved/tree/master/1837-daily-leads-and-partners) |
 | [2087-confirmation-rate](https://github.com/sharanyazx/Leetcode-solved/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sharanyazx/Leetcode-solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
