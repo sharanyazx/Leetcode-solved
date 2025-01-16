@@ -15,6 +15,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sharanyazx/Leetcode-solved/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sharanyazx/Leetcode-solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
+| [1625-group-sold-products-by-the-date](https://github.com/sharanyazx/Leetcode-solved/tree/master/1625-group-sold-products-by-the-date) |
 | [1837-daily-leads-and-partners](https://github.com/sharanyazx/Leetcode-solved/tree/master/1837-daily-leads-and-partners) |
 | [2087-confirmation-rate](https://github.com/sharanyazx/Leetcode-solved/tree/master/2087-confirmation-rate) |
 ## Array
