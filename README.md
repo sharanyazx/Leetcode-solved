@@ -20,6 +20,7 @@
 | [1837-daily-leads-and-partners](https://github.com/sharanyazx/Leetcode-solved/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/sharanyazx/Leetcode-solved/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2087-confirmation-rate](https://github.com/sharanyazx/Leetcode-solved/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/sharanyazx/Leetcode-solved/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sharanyazx/Leetcode-solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
