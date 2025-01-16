@@ -16,6 +16,7 @@
 | [0626-exchange-seats](https://github.com/sharanyazx/Leetcode-solved/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sharanyazx/Leetcode-solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/sharanyazx/Leetcode-solved/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sharanyazx/Leetcode-solved/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/sharanyazx/Leetcode-solved/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/sharanyazx/Leetcode-solved/tree/master/1625-group-sold-products-by-the-date) |
