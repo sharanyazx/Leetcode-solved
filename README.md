@@ -12,6 +12,7 @@
 | [0184-department-highest-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/sharanyazx/Leetcode-solved/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sharanyazx/Leetcode-solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/sharanyazx/Leetcode-solved/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sharanyazx/Leetcode-solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
 | [1837-daily-leads-and-partners](https://github.com/sharanyazx/Leetcode-solved/tree/master/1837-daily-leads-and-partners) |
