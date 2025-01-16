@@ -1,14 +1,11 @@
 # Write your MySQL query statement below
-WITH
-  AllIds AS (
-    SELECT requester_id AS id FROM RequestAccepted
-    UNION ALL
-    SELECT accepter_id FROM RequestAccepted
-  )
-SELECT
-  id,
-  COUNT(*) AS num
-FROM AllIds
-GROUP BY 1
-ORDER BY 2 DESC
-LIMIT 1;
+with cte as(select requester_id as id
+from requestaccepted
+union all
+select accepter_id as id
+from requestaccepted)
+select id ,count(id) as num
+from cte 
+group by id
+order by num desc 
+limit 1
