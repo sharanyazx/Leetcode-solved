@@ -1,15 +1,9 @@
 class Solution {
     public boolean doesValidArrayExist(int[] derived) {
-        int n=derived.length;
-        int[] org=new int[n];
-        for(int i=1; i<n; i++){
-            org[i]=derived[i-1]^org[i-1];
+        int res = 0;
+        for (int x : derived) {
+            res ^= x;
         }
-        for(int i=0; i<n; i++){
-            int num=(i+1)%n;
-            if(derived[i]!=(org[i]^org[num])) return false;
-        }
-
-        return true;
+        return res == 0;
     }
 }
