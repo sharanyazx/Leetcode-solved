@@ -53,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
@@ -72,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/sharanyazx/Leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sharanyazx/Leetcode-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -100,6 +103,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharanyazx/Leetcode-solved/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
