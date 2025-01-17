@@ -32,6 +32,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Enumeration
 |  |
 | ------- |
