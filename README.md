@@ -65,6 +65,7 @@
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/sharanyazx/Leetcode-solved/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/sharanyazx/Leetcode-solved/tree/master/2491-smallest-even-multiple) |
@@ -106,10 +107,15 @@
 | ------- |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharanyazx/Leetcode-solved/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
