@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharanyazx/Leetcode-solved/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
