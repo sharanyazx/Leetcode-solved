@@ -21,6 +21,7 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sharanyazx/Leetcode-solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/sharanyazx/Leetcode-solved/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/sharanyazx/Leetcode-solved/tree/master/1278-product-price-at-a-given-date) |
+| [1317-monthly-transactions-i](https://github.com/sharanyazx/Leetcode-solved/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/sharanyazx/Leetcode-solved/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/sharanyazx/Leetcode-solved/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
