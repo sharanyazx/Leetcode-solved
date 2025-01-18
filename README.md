@@ -22,6 +22,7 @@
 | [1161-project-employees-i](https://github.com/sharanyazx/Leetcode-solved/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/sharanyazx/Leetcode-solved/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/sharanyazx/Leetcode-solved/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1338-queries-quality-and-percentage](https://github.com/sharanyazx/Leetcode-solved/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/sharanyazx/Leetcode-solved/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sharanyazx/Leetcode-solved/tree/master/1462-list-the-products-ordered-in-a-period) |
