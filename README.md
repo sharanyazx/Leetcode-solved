@@ -17,6 +17,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sharanyazx/Leetcode-solved/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/sharanyazx/Leetcode-solved/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sharanyazx/Leetcode-solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/sharanyazx/Leetcode-solved/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/sharanyazx/Leetcode-solved/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sharanyazx/Leetcode-solved/tree/master/1462-list-the-products-ordered-in-a-period) |
