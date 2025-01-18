@@ -19,6 +19,7 @@
 | [0610-triangle-judgement](https://github.com/sharanyazx/Leetcode-solved/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/sharanyazx/Leetcode-solved/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sharanyazx/Leetcode-solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1161-project-employees-i](https://github.com/sharanyazx/Leetcode-solved/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/sharanyazx/Leetcode-solved/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/sharanyazx/Leetcode-solved/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/sharanyazx/Leetcode-solved/tree/master/1390-average-selling-price) |
