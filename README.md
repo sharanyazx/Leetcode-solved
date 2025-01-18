@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/sharanyazx/Leetcode-solved/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/sharanyazx/Leetcode-solved/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/sharanyazx/Leetcode-solved/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sharanyazx/Leetcode-solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
