@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
