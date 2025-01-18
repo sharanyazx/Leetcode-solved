@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/triangle-judgement">610. Triangle Judgement</a></h2><h3>Easy</h3><hr><p>Table: <code>Triangle</code></p>
+<h2><a href="https://leetcode.com/problems/triangle-judgement/?envType=study-plan-v2&envId=top-sql-50">610. Triangle Judgement</a></h2><h3>Easy</h3><hr><p>Table: <code>Triangle</code></p>
 
 <pre>
 +-------------+------+
