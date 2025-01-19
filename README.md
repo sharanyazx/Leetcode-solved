@@ -74,6 +74,7 @@
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1894-merge-strings-alternately](https://github.com/sharanyazx/Leetcode-solved/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/sharanyazx/Leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sharanyazx/Leetcode-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
