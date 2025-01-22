@@ -91,6 +91,7 @@
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0507-perfect-number) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/sharanyazx/Leetcode-solved/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/sharanyazx/Leetcode-solved/tree/master/2491-smallest-even-multiple) |
