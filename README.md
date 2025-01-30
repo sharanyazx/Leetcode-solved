@@ -147,6 +147,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
