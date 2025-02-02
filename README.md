@@ -96,6 +96,7 @@
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0507-perfect-number) |
+| [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/sharanyazx/Leetcode-solved/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/sharanyazx/Leetcode-solved/tree/master/2491-smallest-even-multiple) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Recursion
 |  |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -196,4 +199,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
