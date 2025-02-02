@@ -94,6 +94,7 @@
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0507-perfect-number) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/sharanyazx/Leetcode-solved/tree/master/2383-add-two-integers) |
@@ -145,6 +146,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Recursion
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
