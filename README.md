@@ -55,6 +55,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sharanyazx/Leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/2058-concatenation-of-array) |
@@ -202,4 +203,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
+## Sorting
+|  |
+| ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
