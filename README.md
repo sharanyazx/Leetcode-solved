@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharanyazx/Leetcode-solved/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 ## Game Theory
 |  |
@@ -210,4 +211,12 @@
 |  |
 | ------- |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
