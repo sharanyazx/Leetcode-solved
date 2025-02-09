@@ -91,6 +91,7 @@
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/sharanyazx/Leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sharanyazx/Leetcode-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -231,4 +232,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
