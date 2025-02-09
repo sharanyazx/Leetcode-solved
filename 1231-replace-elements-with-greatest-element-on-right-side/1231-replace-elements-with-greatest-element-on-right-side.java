@@ -1,17 +1,13 @@
 class Solution {
     public int[] replaceElements(int[] arr) {
-        if(arr.length == 1){
-            arr[0] = -1;
-            return arr;
+        int n = arr.length;
+        int last = -1; // Last element is always replaced with -1
+        for (int i = n - 1; i >= 0; i--) { // Traverse from right to left
+            int temp = arr[i]; // Store current element
+            arr[i] = last; // Replace with maxRight
+            last= Math.max(last, temp); // Update maxRight
         }
-        int max = arr[arr.length - 1];
-        arr[arr.length - 1] = -1;
 
-        for(int i = arr.length-2; i>=0; i--){
-            int current = arr[i];
-            arr[i] = max;
-            max = Math.max(max, current);
-        }
         return arr;
     }
 }
