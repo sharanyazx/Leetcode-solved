@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharanyazx/Leetcode-solved/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sharanyazx/Leetcode-solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -236,4 +237,16 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
