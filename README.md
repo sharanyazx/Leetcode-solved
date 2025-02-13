@@ -127,6 +127,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
@@ -153,6 +154,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -245,6 +247,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -257,4 +260,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
