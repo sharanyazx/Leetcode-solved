@@ -173,6 +173,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
@@ -241,12 +242,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
