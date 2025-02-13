@@ -90,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
@@ -248,12 +249,14 @@
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,4 +264,9 @@
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
