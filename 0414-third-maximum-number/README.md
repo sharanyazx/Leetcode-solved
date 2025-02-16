@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/third-maximum-number">414. Third Maximum Number</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, return <em>the <strong>third distinct maximum</strong> number in this array. If the third maximum does not exist, return the <strong>maximum</strong> number</em>.</p>
+<h2><a href="https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=sorting">414. Third Maximum Number</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, return <em>the <strong>third distinct maximum</strong> number in this array. If the third maximum does not exist, return the <strong>maximum</strong> number</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
