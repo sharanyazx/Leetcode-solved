@@ -61,6 +61,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2048-build-array-from-permutation](https://github.com/sharanyazx/Leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sharanyazx/Leetcode-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
