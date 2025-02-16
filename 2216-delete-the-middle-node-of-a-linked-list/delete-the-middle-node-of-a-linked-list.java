@@ -10,18 +10,14 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head.next == null) return null; // If only one node, return null
-
-        ListNode mid = head, temp = head, prev = null;
-
-        // Use slow and fast pointers to find the middle node
-        while(temp != null && temp.next != null){
-            prev = mid;
-            mid = mid.next;
-            temp = temp.next.next;
+        if(head == null || head.next == null) return null;
+        ListNode fast = head.next.next;
+        ListNode slow = head;
+        while(fast != null && fast.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
         }
-
-        prev.next = mid.next; // Remove middle node
+        slow.next = slow.next.next;
         return head;
     }
 }
