@@ -56,6 +56,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0414-third-maximum-number) |
 | [0978-valid-mountain-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sharanyazx/Leetcode-solved/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0414-third-maximum-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Design
 |  |
