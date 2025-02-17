@@ -97,6 +97,7 @@
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
+| [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/sharanyazx/Leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sharanyazx/Leetcode-solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -149,11 +150,13 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
+| [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Divide and Conquer
 |  |
