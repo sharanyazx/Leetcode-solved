@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/string-matching-in-an-array">String Matching in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of string <code>words</code>, return all strings in<em> </em><code>words</code><em> </em>that are a <span data-keyword="substring-nonempty">substring</span> of another word. You can return the answer in <strong>any order</strong>.</p>
+<h2><a href="https://leetcode.com/problems/string-matching-in-an-array">1524. String Matching in an Array</a></h2><h3>Easy</h3><hr><p>Given an array of string <code>words</code>, return all strings in<em> </em><code>words</code><em> </em>that are a <span data-keyword="substring-nonempty">substring</span> of another word. You can return the answer in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
