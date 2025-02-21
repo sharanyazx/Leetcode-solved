@@ -60,6 +60,7 @@
 | [0978-valid-mountain-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sharanyazx/Leetcode-solved/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1524-string-matching-in-an-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/1524-string-matching-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -99,6 +100,7 @@
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
+| [1524-string-matching-in-an-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/sharanyazx/Leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sharanyazx/Leetcode-solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sharanyazx/Leetcode-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/1524-string-matching-in-an-array) |
 ## Tree
 |  |
 | ------- |
