@@ -54,6 +54,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +88,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
