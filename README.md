@@ -244,6 +244,7 @@
 | [0020-valid-parentheses](https://github.com/sharanyazx/Leetcode-solved/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sharanyazx/Leetcode-solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -263,6 +264,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -281,6 +283,7 @@
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sharanyazx/Leetcode-solved/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
@@ -302,6 +305,7 @@
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sharanyazx/Leetcode-solved/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyazx/Leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
@@ -317,4 +321,12 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sharanyazx/Leetcode-solved/tree/master/0053-maximum-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
