@@ -62,6 +62,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0414-third-maximum-number) |
+| [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
 | [0978-valid-mountain-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sharanyazx/Leetcode-solved/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -204,6 +205,7 @@
 | [0226-invert-binary-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sharanyazx/Leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -298,6 +301,7 @@
 | [0226-invert-binary-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sharanyazx/Leetcode-solved/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -329,4 +333,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
