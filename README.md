@@ -206,15 +206,18 @@
 | [0404-sum-of-left-leaves](https://github.com/sharanyazx/Leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/sharanyazx/Leetcode-solved/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sharanyazx/Leetcode-solved/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
+| [0744-network-delay-time](https://github.com/sharanyazx/Leetcode-solved/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -225,6 +228,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sharanyazx/Leetcode-solved/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -302,6 +306,7 @@
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sharanyazx/Leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/sharanyazx/Leetcode-solved/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
