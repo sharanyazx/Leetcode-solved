@@ -124,6 +124,7 @@
 | [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/sharanyazx/Leetcode-solved/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0507-perfect-number) |
 | [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
@@ -205,6 +206,7 @@
 | [0100-same-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sharanyazx/Leetcode-solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sharanyazx/Leetcode-solved/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/sharanyazx/Leetcode-solved/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/sharanyazx/Leetcode-solved/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharanyazx/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/sharanyazx/Leetcode-solved/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 ## Linked List
