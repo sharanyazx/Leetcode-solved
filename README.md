@@ -57,6 +57,7 @@
 | [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -149,6 +150,7 @@
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
@@ -235,6 +237,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharanyazx/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 ## Linked List
 |  |
