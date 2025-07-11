@@ -109,6 +109,7 @@
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
@@ -177,6 +179,7 @@
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/sharanyazx/Leetcode-solved/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
@@ -276,6 +280,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sharanyazx/Leetcode-solved/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Design
@@ -352,4 +357,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
