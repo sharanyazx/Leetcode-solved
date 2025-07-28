@@ -58,6 +58,7 @@
 | [0198-house-robber](https://github.com/sharanyazx/Leetcode-solved/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0334-increasing-triplet-subsequence) |
@@ -127,6 +128,7 @@
 | [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sharanyazx/Leetcode-solved/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0507-perfect-number) |
@@ -154,6 +156,7 @@
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -169,6 +172,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
@@ -189,6 +193,7 @@
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sharanyazx/Leetcode-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sharanyazx/Leetcode-solved/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharanyazx/Leetcode-solved/tree/master/2792-neighboring-bitwise-xor) |
@@ -277,6 +282,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0414-third-maximum-number) |
