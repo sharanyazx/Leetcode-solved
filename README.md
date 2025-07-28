@@ -69,6 +69,7 @@
 | [0695-max-area-of-island](https://github.com/sharanyazx/Leetcode-solved/tree/master/0695-max-area-of-island) |
 | [0978-valid-mountain-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sharanyazx/Leetcode-solved/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sharanyazx/Leetcode-solved/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharanyazx/Leetcode-solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/1524-string-matching-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyazx/Leetcode-solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -276,6 +277,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/sharanyazx/Leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sharanyazx/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sharanyazx/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sharanyazx/Leetcode-solved/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sharanyazx/Leetcode-solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Game Theory
 |  |
@@ -370,4 +372,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sharanyazx/Leetcode-solved/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
