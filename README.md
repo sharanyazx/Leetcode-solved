@@ -81,6 +81,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharanyazx/Leetcode-solved/tree/master/2792-neighboring-bitwise-xor) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharanyazx/Leetcode-solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sharanyazx/Leetcode-solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
@@ -180,6 +181,7 @@
 | [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharanyazx/Leetcode-solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sharanyazx/Leetcode-solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharanyazx/Leetcode-solved/tree/master/2792-neighboring-bitwise-xor) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharanyazx/Leetcode-solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Brainteaser
 |  |
 | ------- |
