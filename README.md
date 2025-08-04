@@ -53,6 +53,7 @@
 | [0039-combination-sum](https://github.com/sharanyazx/Leetcode-solved/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sharanyazx/Leetcode-solved/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharanyazx/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
