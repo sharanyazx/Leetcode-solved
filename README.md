@@ -51,6 +51,7 @@
 | [0011-container-with-most-water](https://github.com/sharanyazx/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/sharanyazx/Leetcode-solved/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sharanyazx/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@
 | [0020-valid-parentheses](https://github.com/sharanyazx/Leetcode-solved/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sharanyazx/Leetcode-solved/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -295,6 +298,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
