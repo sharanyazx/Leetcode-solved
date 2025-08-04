@@ -127,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sharanyazx/Leetcode-solved/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
