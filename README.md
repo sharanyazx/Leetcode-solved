@@ -118,6 +118,7 @@
 | [0049-group-anagrams](https://github.com/sharanyazx/Leetcode-solved/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sharanyazx/Leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/sharanyazx/Leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/sharanyazx/Leetcode-solved/tree/master/0782-jewels-and-stones) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sharanyazx/Leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/1524-string-matching-in-an-array) |
 ## Tree
@@ -393,4 +395,12 @@
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sharanyazx/Leetcode-solved/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sharanyazx/Leetcode-solved/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sharanyazx/Leetcode-solved/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
