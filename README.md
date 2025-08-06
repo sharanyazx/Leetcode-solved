@@ -138,6 +138,7 @@
 | [0007-reverse-integer](https://github.com/sharanyazx/Leetcode-solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/sharanyazx/Leetcode-solved/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sharanyazx/Leetcode-solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharanyazx/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/0189-rotate-array) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharanyazx/Leetcode-solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyazx/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sharanyazx/Leetcode-solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0213-house-robber-ii) |
@@ -405,4 +407,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sharanyazx/Leetcode-solved/tree/master/0214-shortest-palindrome) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sharanyazx/Leetcode-solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
