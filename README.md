@@ -147,6 +147,7 @@
 | [0268-missing-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sharanyazx/Leetcode-solved/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/sharanyazx/Leetcode-solved/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/sharanyazx/Leetcode-solved/tree/master/0507-perfect-number) |
 | [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/sharanyazx/Leetcode-solved/tree/master/1635-number-of-good-pairs) |
@@ -177,6 +178,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyazx/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyazx/Leetcode-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/sharanyazx/Leetcode-solved/tree/master/0367-valid-perfect-square) |
 ## Enumeration
 |  |
 | ------- |
