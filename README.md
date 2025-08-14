@@ -127,6 +127,7 @@
 | [0812-rotate-string](https://github.com/sharanyazx/Leetcode-solved/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/sharanyazx/Leetcode-solved/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/sharanyazx/Leetcode-solved/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/sharanyazx/Leetcode-solved/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/sharanyazx/Leetcode-solved/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sharanyazx/Leetcode-solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -279,6 +280,7 @@
 | [0279-perfect-squares](https://github.com/sharanyazx/Leetcode-solved/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [1086-divisor-game](https://github.com/sharanyazx/Leetcode-solved/tree/master/1086-divisor-game) |
+| [1250-longest-common-subsequence](https://github.com/sharanyazx/Leetcode-solved/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
